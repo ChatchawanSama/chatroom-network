@@ -10,7 +10,6 @@
    gcc server.c -o server
     ./server
 
-
 #### Client
 
 2. Compile the client program: Client
