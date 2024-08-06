@@ -10,6 +10,9 @@
    gcc server.c -o server
     ./server
 
+
+#### Client
+
 2. Compile the client program: Client
     You can run many clinet to join the group chat
    
